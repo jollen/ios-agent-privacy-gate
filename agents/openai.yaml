@@ -1,0 +1,5 @@
+interface:
+  display_name: "iOS Agent Privacy Gate"
+  short_description: "Review iOS Agentic AI features for security, privacy, local-first design, and App Store readiness."
+  icon: "shield"
+  color: "#1F6FEB"
